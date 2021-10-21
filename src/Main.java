@@ -13,7 +13,10 @@ long mySecondInt = 123456L;
 long result = myInt + 12345698l;
 float myFloat = 3.3f;
 double myDouble = myFloat = myInt;
+byte age = 3
 
+
+ */
     }
 
 
