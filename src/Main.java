@@ -21,7 +21,8 @@ byte age = 3
      float mysecondFloat = 10/3F;
      System.out.println (mysecondFloat);
 
-     
+        System.out.println("Hello");
+        System.out.println("Cristian");
         System.out.println(2+2+ 21-2*(2+2));
 
         System.out.println(-5+8*6);
