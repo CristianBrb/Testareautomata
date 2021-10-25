@@ -3,7 +3,6 @@ public class Main {
     static float x = 1;
     static float y = 2;
 
-
     public static void main(String[] args) {
         System.out.println("Hello World!");
 /*short myShort = 2;
@@ -36,7 +35,11 @@ byte age = 3
 
 */
 
-
+        Calculator calc = new Calculator();
+        float result = calc.sum(x, y);
+        float result1 = calc.divider(x, y);
+        float result2 = calc.substract(x, y);
+        float result3 = calc.multiplyer(x, y);
 
 
     }

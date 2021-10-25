@@ -3,7 +3,7 @@ public class Calculator {
      float y = 2;
 
 
-    public void main(String[] args) {
+    public void CalculatorMethods(String[] args) {
 
         float result = sum(x, y);
         float result1 = substract(x, y);

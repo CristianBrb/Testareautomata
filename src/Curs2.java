@@ -5,7 +5,7 @@ public class Curs2 {
     static float y = 2;
 
 
-    public static void main(String[] args) {
+    public static void curs2(String[] args) {
 
         Calculator calc = new Calculator();
         float result = calc.sum(x, y);
