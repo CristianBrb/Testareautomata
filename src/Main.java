@@ -37,35 +37,7 @@ byte age = 3
 */
 
 
-        float result = sum(x, y);
-        float result1 = substract(x, y);
-        float result2 = divider(x, y);
-        float result3 = multiplyer(x, y);
-        System.out.println(result);
-        System.out.println(result1);
-        System.out.println(result2);
-        System.out.println(result3);
-    }
 
-    public static float sum(float first, float second) {
-
-        float result = first + second;
-        return result;
-    }
-
-    public static float substract(float first, float second) {
-        float result = first - second;
-        return result;
-    }
-
-    public static float divider(float first, float second) {
-        float result = first / second;
-        return result;
-    }
-
-    public static float multiplyer(float first, float second) {
-        float result = first * second;
-        return result;
 
     }
 
