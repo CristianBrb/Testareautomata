@@ -1,7 +1,7 @@
 public class Main {
 
-    static float x = 1;
-    static float y = 2;
+//    static float x = 1;
+//    static float y = 2;
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
@@ -35,17 +35,34 @@ byte age = 3
 
 */
 
-        Calculator calc = new Calculator();
-        float result = calc.sum(x, y);
-        float result1 = calc.divider(x, y);
-        float result2 = calc.substract(x, y);
-        float result3 = calc.multiplyer(x, y);
+//        Calculator calc = new Calculator();
+//        float result = calc.sum(x, y);
+//        float result1 = calc.divider(x, y);
+//        float result2 = calc.substract(x, y);
+//        float result3 = calc.multiplyer(x, y);
+//
+//JAVAprint print = new JAVAprint();
+//Robot robot = new Robot();
 
-JAVAprint print = new JAVAprint();
-Robot robot = new Robot();
 
 
     }
+//    public void printSpeedinMetric(int meters, int hours, int minutes, int seconds){
+//        //V = D/T
+//        int timeInSeconds = (hours * 3600) + (minutes * 60) + seconds;
+//                double speedMeters = meters/ timeInSeconds;
+//        System.out.println("The speed in m/s"+ speedMeters);
+//
+//        Double kmPerHour = speedMeters * 3.6;
+//        System.out.println("the speed in km/h"+kmPerHour);
+//        double milesPerHour = kmPerHour / 1.609;
+//        System.out.println("The speed in m/h" + milesPerHour);
 
 
-}
+
+        }
+
+
+
+
+
