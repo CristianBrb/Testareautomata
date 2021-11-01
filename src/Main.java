@@ -41,6 +41,9 @@ byte age = 3
         float result2 = calc.substract(x, y);
         float result3 = calc.multiplyer(x, y);
 
+JAVAprint print = new JAVAprint();
+Robot robot = new Robot();
+
 
     }
 
