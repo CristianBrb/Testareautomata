@@ -1,9 +1,7 @@
 package AnimalRescue;
 
 public class Girl {
-    byte age ;
-    float weight ;
-    int heightInCm ;
+    double money = 100;
     String name ;
 
     public void bellyrub(){

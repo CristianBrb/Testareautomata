@@ -7,6 +7,9 @@ public class Dog {
     int heightInCm ;
     String name ;
     String color;
+    byte health = 10;
+    byte hunger = 1;
+    byte spirit = 10;
 
     public void eat(){
         System.out.println("Eating...");
@@ -20,7 +23,7 @@ public class Dog {
         System.out.println("Bark! ");
     }
 
-    public void play(){
+    public void playing(){
         System.out.println("Playing fetch...");
     }
 }

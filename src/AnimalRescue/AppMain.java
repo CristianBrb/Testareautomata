@@ -8,7 +8,7 @@ public class AppMain {
         rex.age = 1;
         System.out.println(rex.name);
         System.out.println(rex.age);
-        rex.play();
+
         rex.name = "Blackie";
         System.out.println(rex.name);
 
@@ -18,5 +18,14 @@ public class AppMain {
 
         Dog max = new Dog();
         max.breed = "Buldog";
+
+      Activity preffered = new Activity();
+
+        preffered.prefferedactivity = "Fetch";
+        System.out.println(preffered.prefferedactivity);
+
+        DogFood best = new DogFood();
+        best.name = "Royal";
+        System.out.println(best.name);
     }
 }

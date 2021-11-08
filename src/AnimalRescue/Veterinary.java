@@ -1,9 +1,7 @@
 package AnimalRescue;
 
 public class Veterinary {
-    byte age ;
-    float weight ;
-    int heightInCm ;
+    String Specialization ;
     String name ;
 
     public void consult(){
